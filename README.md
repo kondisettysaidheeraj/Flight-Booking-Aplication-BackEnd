@@ -10,7 +10,7 @@ Flow-
 
 PostMan
 After developing  each API'S tested by post man it is working properly or not.
-we will check using payload for post calls and checks the data is stored in Database or not and for get call we will see response is geting or not in the post man .
+We will check using payload for post calls and checks the data is stored in Database or not and for get call we will see response is geting or not in the post man .
 
 Database-
 1)In the above we have used MYSQL by linking in aplication.properties
